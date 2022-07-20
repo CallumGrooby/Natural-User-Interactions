@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcea3620b41e68e4dafa9721b06b0bed, type: 3}
+  m_Name: TonellaArmChair
+  m_EditorClassIdentifier: 
+  itemName: Tonella Arm Chair
+  itemCost: 100
+  itemIcon: {fileID: 21300000, guid: 5e2ef881355261841afa80e166270e32, type: 3}
+  itemPrefab: {fileID: 7717866584435379544, guid: fa07eb1f23f77604dac3cbd9fb673141, type: 3}

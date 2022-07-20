@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcea3620b41e68e4dafa9721b06b0bed, type: 3}
+  m_Name: Bristol Sofa
+  m_EditorClassIdentifier: 
+  itemName: Bristol Sofa
+  itemCost: 250
+  itemIcon: {fileID: 21300000, guid: 0309dae68ec079c42a5d3f56741e35ca, type: 3}
+  itemPrefab: {fileID: 885992276194583886, guid: 19b7019a6cc4eff46acfa58483180f80, type: 3}
